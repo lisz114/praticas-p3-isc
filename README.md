@@ -1,1 +1,1 @@
-# praticas-p3-isc
+# praticas-p3-ifsc
